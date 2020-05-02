@@ -2,13 +2,6 @@ import random
 from datetime import date
 
 
-# today = date.today()
-# another_day = date(2020, 3, 20)
-
-# delta = today - another_day
-
-# print(delta)
-
 id_num = random.randint(1,10)
 
 class Ring:
